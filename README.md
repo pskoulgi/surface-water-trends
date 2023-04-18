@@ -7,6 +7,7 @@ To reproduce our analysis, follow these steps:
 2. Delineate transects across rivers, by first running [`FindTransectLocations.js`](FindTransectLocations.js) to find their locations along the river channels and then running [`MakeTransects.js`](MakeTransects.js) to delineate transects across them. Delineations of basins around rivers are publicly available, and can be chosen from, the [HydroBASINS](https://www.hydrosheds.org/products/hydrobasins) dataset. We used level 7 basins in our analysis.
 3. For these basins and transects, calculate time series of surface water areas using the annual composites from 1. above, by running [`TxBasinSeasWaterTsExp.js`](TxBasinSeasWaterTsExp.js).
 4. Estimate trends, by season, in annual surface water area changes for each basin and transect by running [`TimeseriesRegr.js`](TimeseriesRegr.js).
+5. Export results of trend estimation and timeseries of surface water areas, for use in a local machine, or as deposited in the Zenodo data repository, by running [`ResultsExports.js`](ResultsExports.js).
 
 # License
 
