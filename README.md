@@ -1,3 +1,5 @@
+[![Zenodo Code DOI](https://img.shields.io/badge/Code_on_Zenodo-DOI:_10.5281/zenodo.7839588-blue)](https://doi.org/10.5281/zenodo.7839588) [![Zenodo Data DOI](https://img.shields.io/badge/Data_on_Zenodo-DOI:_10.5281/zenodo.7803903-darkgreen)](https://doi.org/10.5281/zenodo.7803903)
+
 # Surface water trends in India's rivers and basins
 
 This repository contains [Google Earth Engine](https://earthengine.google.com/) code behind the analysis for our publication on surface water area trends for rivers and basins in India. This is work done in collaboration with [Suman Jumani](https://github.com/SumanJumani).
